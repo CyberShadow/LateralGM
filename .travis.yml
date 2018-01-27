@@ -20,4 +20,3 @@ deploy:
   on:
     repo: CyberShadow/LateralGM
     branch: maven
-    tags: true

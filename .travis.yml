@@ -18,4 +18,4 @@ deploy:
   file: targets/LateralGM-*.jar
   on:
     repo: CyberShadow/LateralGM
-    branch: maven
+    tags: true
